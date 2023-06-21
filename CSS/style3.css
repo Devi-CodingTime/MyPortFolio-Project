@@ -324,10 +324,10 @@ p
     
 }
 /* services */
-#services
+/* #services
 {
     padding: 8rem 0;
-}
+} */
 #services .all-items
 {
     display: flex;
